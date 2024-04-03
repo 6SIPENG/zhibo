@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/九宫阁导视.png",九宮閣•導視 Ⅰ•陕西
+#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/导视.png",九宮閣•導視 Ⅰ•陕西
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/九宫阁导视.png",九宮閣•導視 Ⅱ•陕西
+#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/导视.png",九宮閣•導視 Ⅱ•陕西
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/九宫阁导视.png",九宮閣•導視 Ⅰ•西安
+#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/导视.png",九宮閣•導視 Ⅰ•西安
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001579/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/九宫阁导视.png",九宮閣•導視 Ⅱ•西安
+#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/导视.png",九宮閣•導視 Ⅱ•西安
 http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000001589/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/九宫阁导视.png",九宮閣•導視•铜川
+#EXTINF:-1 group-title="♻️ 導視" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/导视.png",九宮閣•導視•铜川
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226337/index.m3u8
 #EXTINF:-1 group-title="🐼 熊寶頻道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/熊宝频道.png",都江堰青青
 http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
